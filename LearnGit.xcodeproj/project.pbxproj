@@ -13,6 +13,7 @@
 		04F20F1B1CCE18C70006332D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F20F191CCE18C70006332D /* Main.storyboard */; };
 		04F20F1D1CCE18C70006332D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F20F1C1CCE18C70006332D /* Assets.xcassets */; };
 		04F20F201CCE18C70006332D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F20F1E1CCE18C70006332D /* LaunchScreen.storyboard */; };
+		04F20F291CCE1C1C0006332D /* YSHPeople.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F20F281CCE1C1C0006332D /* YSHPeople.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		04F20F1C1CCE18C70006332D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F20F1F1CCE18C70006332D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F20F211CCE18C70006332D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F20F271CCE1C1C0006332D /* YSHPeople.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YSHPeople.h; sourceTree = "<group>"; };
+		04F20F281CCE1C1C0006332D /* YSHPeople.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YSHPeople.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				04F20F161CCE18C70006332D /* ViewController.h */,
 				04F20F171CCE18C70006332D /* ViewController.m */,
 				04F20F191CCE18C70006332D /* Main.storyboard */,
+				04F20F271CCE1C1C0006332D /* YSHPeople.h */,
+				04F20F281CCE1C1C0006332D /* YSHPeople.m */,
 				04F20F1C1CCE18C70006332D /* Assets.xcassets */,
 				04F20F1E1CCE18C70006332D /* LaunchScreen.storyboard */,
 				04F20F211CCE18C70006332D /* Info.plist */,
@@ -153,6 +158,7 @@
 				04F20F181CCE18C70006332D /* ViewController.m in Sources */,
 				04F20F151CCE18C70006332D /* AppDelegate.m in Sources */,
 				04F20F121CCE18C70006332D /* main.m in Sources */,
+				04F20F291CCE1C1C0006332D /* YSHPeople.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
